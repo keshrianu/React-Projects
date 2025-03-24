@@ -1,0 +1,209 @@
+{
+    "faqData": [
+      {
+        "question": "What is HTML?",
+        "answer": "HTML stands for HyperText Markup Language. It is the standard markup language used to create web pages."
+      },
+      {
+        "question": "What is the purpose of the <head> tag in HTML?",
+        "answer": "The <head> tag contains meta-information about the HTML document, such as its title, character set, and links to stylesheets."
+      },
+      {
+        "question": "What are semantic HTML elements?",
+        "answer": "Semantic HTML elements clearly describe their meaning in a human- and machine-readable way. Examples include <article>, <section>, and <header>."
+      },
+      {
+        "question": "What is the <meta> tag used for?",
+        "answer": "The <meta> tag provides metadata about the HTML document, such as description, keywords, author, and character set."
+      },
+      {
+        "question": "What is the difference between <div> and <span> tags?",
+        "answer": "<div> is a block-level element used to group content, while <span> is an inline element used to style a specific section of text within a block."
+      },
+      {
+        "question": "What is the <form> tag used for in HTML?",
+        "answer": "The <form> tag is used to collect user input. It is a container for form controls like input fields, checkboxes, and buttons."
+      },
+      {
+        "question": "What is the difference between <input> and <textarea>?",
+        "answer": "<input> is used for single-line text input fields, whereas <textarea> is used for multi-line text inputs."
+      },
+      {
+        "question": "What is the <button> tag used for?",
+        "answer": "The <button> tag is used to create clickable buttons, which can be used to submit forms or trigger JavaScript events."
+      },
+      {
+        "question": "What is the role of the <a> tag?",
+        "answer": "The <a> tag defines a hyperlink, which is used to link from one page to another."
+      },
+      {
+        "question": "What are void elements in HTML?",
+        "answer": "Void elements are HTML elements that do not have closing tags. Examples include <img>, <input>, <br>, and <hr>."
+      },
+      {
+        "question": "What is CSS?",
+        "answer": "CSS stands for Cascading Style Sheets. It is used to control the layout and appearance of HTML elements on a web page."
+      },
+      {
+        "question": "What is the box model in CSS?",
+        "answer": "The CSS box model describes the rectangular boxes generated for elements in the document tree. It consists of margins, borders, padding, and the content itself."
+      },
+      {
+        "question": "What is the difference between margin and padding in CSS?",
+        "answer": "Margin is the space outside the element’s border, while padding is the space between the element’s content and its border."
+      },
+      {
+        "question": "What is a CSS selector?",
+        "answer": "A CSS selector is a pattern used to select the elements you want to style."
+      },
+      {
+        "question": "What are pseudo-classes in CSS?",
+        "answer": "Pseudo-classes are used to define the special state of an element, such as :hover, :focus, or :nth-child."
+      },
+      {
+        "question": "What are media queries in CSS?",
+        "answer": "Media queries allow you to apply CSS styles depending on the device type or screen size. They are used for responsive design."
+      },
+      {
+        "question": "What is CSS Flexbox?",
+        "answer": "CSS Flexbox is a layout module that makes it easier to design flexible, responsive layouts. It allows items within a container to be aligned and distributed according to specific rules."
+      },
+      {
+        "question": "What is CSS Grid?",
+        "answer": "CSS Grid is a two-dimensional layout system used to define rows and columns in which content can be placed."
+      },
+      {
+        "question": "What is a CSS preprocessor?",
+        "answer": "A CSS preprocessor, like Sass or LESS, is a scripting language that extends CSS and allows variables, nested rules, and functions."
+      },
+      {
+        "question": "What is JavaScript?",
+        "answer": "JavaScript is a high-level, dynamic programming language used to create interactive effects within web browsers."
+      },
+      {
+        "question": "What are JavaScript data types?",
+        "answer": "JavaScript data types include strings, numbers, booleans, objects, arrays, and null/undefined."
+      },
+      {
+        "question": "What is the difference between var, let, and const?",
+        "answer": "`var` is function-scoped, `let` is block-scoped, and `const` is block-scoped but also immutable."
+      },
+      {
+        "question": "What is hoisting in JavaScript?",
+        "answer": "Hoisting is the process where variable and function declarations are moved to the top of their scope during the compile phase."
+      },
+      {
+        "question": "What is an arrow function in JavaScript?",
+        "answer": "Arrow functions are a concise syntax for writing function expressions and do not bind their own `this` context."
+      },
+      {
+        "question": "What is a closure in JavaScript?",
+        "answer": "A closure is a function that has access to its own scope, the scope of its outer function, and the global scope."
+      },
+      {
+        "question": "What is the DOM?",
+        "answer": "The Document Object Model (DOM) is an interface that represents HTML or XML documents as a tree structure."
+      },
+      {
+        "question": "What is the event loop in JavaScript?",
+        "answer": "The event loop allows JavaScript to perform asynchronous operations by handling events and executing callback functions."
+      },
+      {
+        "question": "What is the difference between == and === in JavaScript?",
+        "answer": "`==` compares values after type coercion, while `===` compares both value and type."
+      },
+      {
+        "question": "What are promises in JavaScript?",
+        "answer": "A promise is an object that represents the eventual completion or failure of an asynchronous operation."
+      },
+      {
+        "question": "What is async/await in JavaScript?",
+        "answer": "`async` and `await` are used to handle asynchronous operations in a more readable way than promises."
+      },
+      {
+        "question": "What is JSON?",
+        "answer": "JSON (JavaScript Object Notation) is a lightweight data format used for exchanging data between a server and a client."
+      },
+      {
+        "question": "What is AJAX?",
+        "answer": "AJAX (Asynchronous JavaScript and XML) is a technique for creating dynamic web pages by making asynchronous requests to the server."
+      },
+      {
+        "question": "What is event delegation in JavaScript?",
+        "answer": "Event delegation is a technique of attaching a single event listener to a parent element to manage events from its children."
+      },
+      {
+        "question": "What is destructuring in JavaScript?",
+        "answer": "Destructuring is a syntax that allows you to extract values from arrays or properties from objects into distinct variables."
+      },
+      {
+        "question": "What is React?",
+        "answer": "React is a JavaScript library for building user interfaces, allowing developers to create reusable UI components."
+      },
+      {
+        "question": "What are components in React?",
+        "answer": "Components are the building blocks of any React application. They can be functional or class-based and allow developers to split the UI into independent, reusable pieces."
+      },
+      {
+        "question": "What is the virtual DOM in React?",
+        "answer": "The virtual DOM is a lightweight representation of the real DOM. React uses it to efficiently update the UI by comparing changes between the virtual DOM and the real DOM."
+      },
+      {
+        "question": "What is JSX?",
+        "answer": "JSX stands for JavaScript XML. It is a syntax extension for JavaScript used with React to describe the UI."
+      },
+      {
+        "question": "What is state in React?",
+        "answer": "State is an object that represents the dynamic parts of a component, allowing the component to react to changes in data."
+      },
+      {
+        "question": "What are props in React?",
+        "answer": "Props are short for properties and are used to pass data from one component to another in React."
+      },
+      {
+        "question": "What are hooks in React?",
+        "answer": "Hooks are functions that let you use state and other React features in functional components. Examples include useState and useEffect."
+      },
+      {
+        "question": "What is useEffect used for?",
+        "answer": "useEffect is a React hook that allows you to perform side effects like fetching data or updating the DOM."
+      },
+      {
+        "question": "What is the purpose of keys in React?",
+        "answer": "Keys help React identify which items have changed, are added, or removed when rendering lists, ensuring efficient updates."
+      },
+      {
+        "question": "What is the Context API in React?",
+        "answer": "The Context API allows you to share state or data across multiple components without passing props manually at every level."
+      },
+      {
+        "question": "What is Webpack?",
+        "answer": "Webpack is a module bundler used to compile JavaScript files into a single bundle for the browser."
+      },
+      {
+        "question": "What is a Webpack loader?",
+        "answer": "Webpack loaders are transformations applied to files before they are bundled. For example, `babel-loader` transpiles JavaScript code using Babel."
+      },
+      {
+        "question": "What is TypeScript?",
+        "answer": "TypeScript is a typed superset of JavaScript that compiles down to plain JavaScript, adding static types to help catch errors at compile time."
+      },
+      {
+        "question": "What are types in TypeScript?",
+        "answer": "Types in TypeScript define the shape of data, including primitive types like string, number, boolean, as well as custom object types."
+      },
+      {
+        "question": "What is the difference between interface and type in TypeScript?",
+        "answer": "An interface describes the structure of an object. A type can define an object but also allows unions and intersections of different types."
+      },
+      {
+        "question": "What is type inference in TypeScript?",
+        "answer": "Type inference refers to TypeScript's ability to automatically determine the type of a variable based on its value."
+      },
+      {
+        "question": "What is a tuple in TypeScript?",
+        "answer": "A tuple is a fixed-length array where the types of elements are known and can be different."
+      }
+    ]
+  }
+  
